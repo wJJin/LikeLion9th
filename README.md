@@ -1,7 +1,7 @@
-* hufslion_session
-  첫번째 세션 - first_session
-  홈페이지 만들기 - startbootstrap-creative-gh-pages
-* likelion_session
-  웹 기초 수강- introduce_myself_page
-  HTML 수강- HTML_basic
-  CSS1 수강- CSS_1
+* hufslion_session  
+  첫번째 세션 - first_session  
+  홈페이지 만들기 - startbootstrap-creative-gh-pages  
+* likelion_session  
+  웹 기초 수강- introduce_myself_page  
+  HTML 수강- HTML_basic  
+  CSS1 수강- CSS_1  
