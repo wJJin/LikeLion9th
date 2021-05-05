@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>우진입니다.</title>
+        <style>
+            #new_link[target="_blank"]{color:red;}
+            article p {color:blue;}
+            article > p {color:pink;}
+            a:link {color:yellow;}
+            a:visited {color:green;}
+            a:hover{background-color:orange}
+
+        </style>
+    </head>
+    <body>
+        <a href="https://www.google.com/" target="_self">구글 현재창</a>
+        <a href="https://www.google.com/" target="_blank" id="new_link">구글 현재창</a>
+        <a href="https://www.google.com/" target="_self">구글 현재창</a>
+        <a href="https://www.google.com/" target="_self">구글 현재창</a>
+
+        <article>
+            <div>자식1
+                <p>
+                    후손1
+                </p>
+            </div>
+            <div>자식2
+                <p>
+                    후손2
+                </p>
+            </div>
+            <p>자식3</p>
+        </article>
+    </body>
+</html>
