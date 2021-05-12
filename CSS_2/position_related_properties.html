@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>우진입니다.</title>
+    </head>
+    <style>
+        body {background-color: skyblue;}
+        #block{
+            background-color: pink;
+            display: none /*디스플레이에 해당 요소가 출력되지 않음*/
+        }
+        #inline{
+            background-color: lemonchiffon;
+            width: 200px;
+            height: 100px;
+            margin: 20px;
+            display: inline-block;
+        }
+        #parent{
+            background-color:pink;
+            width: 100px;
+            height: 100px;
+        }
+        #child{
+            background-color: lemonchiffon;
+            width: 100px;
+            height: 100px;
+            position: relative;
+            top: 20px;
+            left: 20px;
+
+        }
+        #fixed{
+            background-color: plum;
+            height:60px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+        }
+    </style>
+    
+    <body>
+        <div id="main">
+            <p id="block">
+                block
+            </p>
+            <span id="inline">
+                inline
+            </span>
+        </div>
+
+        <div id="parent">
+            <div id="child">
+                child
+            </div>
+        </div>
+        <div id="main">
+            <dive id= "fixed">
+                
+                저는 고정되어있습니다.
+            </dive>
+        </div>
+    </body>
+</html>

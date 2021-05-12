@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>우진입니다.</title>
+        <style>
+            *{box-sizing:border-box;}
+            body {margin: 0;}
+            a{text-decoration:none;}
+            a:link, a:visited, a:active{color:inherit;}
+
+            header{background-color: skyblue;}
+            nav{background-color: pink;}
+            aside{background-color: lightgray;}
+            footer{background-color: lightcoral;}
+
+            #main{
+                display:flex;
+            }
+            .content{
+                flex:70%
+            }
+            .aside{
+                flex:30%
+            }
+            .navbar{
+                display:flex;
+                justify-content:flex-end;
+            }
+
+            .header{
+                padding: 30px;
+                text-align:center;
+            }
+            .navbar a{
+                padding: 8px;
+                margin-right: 20px;
+            }
+            .navbar a:hover{
+                color: black;
+                background-color: white;
+            }
+            .content{
+                padding: 40px;
+            }
+            .aside{
+                padding:40px;
+            }
+            .footer{
+                padding: 30px;
+                text-align:center;
+            }
+        </style>
+    </head>
+
+    <body>
+        <header class="header">
+            <h1>My webpage</h1>
+        </header>
+        <nav class="navbar">
+            <a href="">Home</a>
+            <a href="">About</a>
+            <a href="">QNA</a>
+        </nav>
+        <div id="main">
+            <article class="content">
+                <h2>About me</h2>
+                <h3>introduce :</h3>
+                <p>Remember, the t-value in your output is calculated from only one sample from the entire population. It you took repeated random samples of data from the same population, you'd get slightly different t-values each time, due to random sampling error (which is really not a mistake of any kind–it's just the random variation expected in the data).</p>
+            </article>
+            <aside class="aside">
+                <h2>AD</h2>
+                <p>
+                    The highest part (peak) of the distribution curve shows you where you can expect most of the t-values to fall. Most of the time, you’d expect to get t-values close to 0. That makes sense, right? Because if you randomly select representative samples from a population, the mean of most of those random samples from the population should be close to the overall population mean, making their differences (and thus the calculated t-values) close to 0
+                </p>
+            </aside>
+            <footer class="footer">
+                <h2>Footer</h2>
+                <p>T values of larger magnitudes (either negative or positive) are less likely. The far left and right "tails" of the distribution curve represent instances of obtaining extreme values of t, far from 0. For example, the shaded region represents the probability of obtaining a t-value of 2.8 or greater. Imagine a magical dart that could be thrown to land randomly anywhere under the distribution curve. What's the chance it would land in the shaded region? The calculated probability is 0.005712.....which rounds to 0.006...which is...the p-value obtained in the t-test results! </p>
+            </footer>
+        </div>
+
+    </body>
+</html>

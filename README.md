@@ -5,3 +5,4 @@
   웹 기초 수강- introduce_myself_page  
   HTML 수강- HTML_basic  
   CSS1 수강- CSS_1  
+  CSS2, Python1 수강- CSS_2, Python1
