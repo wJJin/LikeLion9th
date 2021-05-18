@@ -6,3 +6,4 @@
   HTML 수강- HTML_basic  
   CSS1 수강- CSS_1  
   CSS2, Python1 수강- CSS_2, Python1
+  Python2, Python3 수강 - Python2, Python3
