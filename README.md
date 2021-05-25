@@ -10,4 +10,4 @@
   Python2, Python3 수강 - Python2, Python3
 =======
   Python2, Python3 수강 - Python2, Python3
->>>>>>> b4079509aa35921036827519b0f589a834537b0a
+  Django1 수강 - firstproject, DjangoSetting&Django1
