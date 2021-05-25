@@ -6,4 +6,8 @@
   HTML 수강- HTML_basic  g
   CSS1 수강- CSS_1  
   CSS2, Python1 수강- CSS_2, Python1  
+<<<<<<< HEAD
   Python2, Python3 수강 - Python2, Python3
+=======
+  Python2, Python3 수강 - Python2, Python3
+>>>>>>> b4079509aa35921036827519b0f589a834537b0a
