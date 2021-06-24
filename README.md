@@ -11,3 +11,4 @@
   Python2, Python3 수강 - Python2, Python3  
   Django1 수강 - firstproject, DjangoSetting&Django1  
   Django2 수강 - myvenv1, lionproject
+  Django3 수강 - myvenv1, lionproject 
