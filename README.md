@@ -6,9 +6,7 @@
   HTML 수강- HTML_basic  g
   CSS1 수강- CSS_1  
   CSS2, Python1 수강- CSS_2, Python1  
-<<<<<<< HEAD
   Python2, Python3 수강 - Python2, Python3  
   Python2, Python3 수강 - Python2, Python3  
-  Django1 수강 - firstproject, DjangoSetting&Django1  
-  Django2 수강 - myvenv1, lionproject
-  Django3 수강 - myvenv1, lionproject 
+    
+  Django1, Django2, Django3 수강 - https://github.com/hufslion9th/django/blob/master/README.md (다시 진행중)  
