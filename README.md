@@ -9,4 +9,6 @@
   Python2, Python3 수강 - Python2, Python3  
   Python2, Python3 수강 - Python2, Python3  
     
-  Django1, Django2, Django3 수강 - https://github.com/hufslion9th/django/blob/master/README.md (다시 진행중)  
+  Django1 - firstproject  
+  Django2, Django3 수강 - 밑 레포지토리에 다시 만들었습니다    
+  Django project - https://github.com/JungWooJin97/django_project  
