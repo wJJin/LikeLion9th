@@ -12,3 +12,4 @@
   Django1 - firstproject  
   Django2, Django3 수강 - 밑 레포지토리에 다시 만들었습니다    
   Django project - https://github.com/JungWooJin97/django_project  
+  Django 4- Heroku 배포: https://fathomless-springs-49749.herokuapp.com/
